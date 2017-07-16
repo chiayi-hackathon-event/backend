@@ -1,0 +1,6 @@
+User-agent: Googlebot-Image
+Disallow: /avatar/*
+User-agent: Googlebot
+Disallow: /avatar/*
+Disallow: /system/*
+Disallow: /application/*
